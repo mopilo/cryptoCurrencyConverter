@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">convertCurrency</string>
+    <string name="dollar">$</string>
+    <string name="info">Convert from Bitcoin to your local Currency</string>
+</resources>
